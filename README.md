@@ -9,4 +9,4 @@ The page demonstrates the use of HTML5 features for **media integration**, inclu
 
 -Use tables for marking up tabular data
 
--Use <main>, <article>, and <section> to appropriately divide content 
+-Use main, article, and section to appropriately divide content 
